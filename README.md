@@ -102,25 +102,25 @@ The website provides a professional interface for browsing premium computer hard
 
 ## Installation
 
-1. Clone the repository
+### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/JNITECH.git
+git clone https://github.com/Josh-Debugpro/JNITECH.git
 ```
 
-2. Navigate to the project folder
+### 2. Navigate to the project folder
 
 ```bash
 cd react-website
 ```
 
-3. Install dependencies
+### 3. Install dependencies
 
 ```bash
 npm install
 ```
 
-4. Run the project
+### 4. Run the project
 
 ```bash
 npm run dev
@@ -128,37 +128,12 @@ npm run dev
 
 ---
 
+## Live Demo
+
+[View Live Website](https://jnitech.vercel.app)
+
+---
+
 ## Author
 
 Developed as a React Frontend Project using React and Vite.
-## Screenshots
-
-### Home Page
-![Home Page](screenshots/home-page.png)
-
-### Product Page
-![Product Page](screenshots/product-page.png)
-
-### CPU Page
-![CPU Page](screenshots/cpu-page.png)
-
-### GPU Page
-![GPU Page](screenshots/gpu-page.png)
-
-### RAM Page
-![RAM Page](screenshots/ram-page.png)
-
-### SSD Page
-![SSD Page](screenshots/ssd-page.png)
-
-### Shop By Category
-![Shop By Category](screenshots/shop-by-category.png)
-
-### About Page
-![About Page](screenshots/about-page.png)
-
-### Contact Page
-![Contact Page](screenshots/contact-page.png)
-
-### Customer Reviews
-![Customer Reviews](screenshots/customer-review.png)
