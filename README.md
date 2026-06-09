@@ -131,3 +131,34 @@ npm run dev
 ## Author
 
 Developed as a React Frontend Project using React and Vite.
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/home-page.png)
+
+### Product Page
+![Product Page](screenshots/product-page.png)
+
+### CPU Page
+![CPU Page](screenshots/cpu-page.png)
+
+### GPU Page
+![GPU Page](screenshots/gpu-page.png)
+
+### RAM Page
+![RAM Page](screenshots/ram-page.png)
+
+### SSD Page
+![SSD Page](screenshots/ssd-page.png)
+
+### Shop By Category
+![Shop By Category](screenshots/shop-by-category.png)
+
+### About Page
+![About Page](screenshots/about-page.png)
+
+### Contact Page
+![Contact Page](screenshots/contact-page.png)
+
+### Customer Reviews
+![Customer Reviews](screenshots/customer-review.png)
